@@ -158,4 +158,4 @@ class KraveEngine:
 
 
 if __name__ == "__main__":
-    print("Krave Engine ready")
+    print("Krave Prepared")
